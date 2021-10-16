@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 -->
 
 ![Shavinda's github stats](https://github-readme-stats.vercel.app/api?username=WKIShavinda&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WKIShavinda&layout=compact&langs_count=8&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajiEkanayaka&layout=compact&langs_count=8&theme=light)
 
 <br />
 
