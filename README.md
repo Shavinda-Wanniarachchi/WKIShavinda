@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently an undergraduate of <b>NSBM Green University, Sri Lanka</b>
 - 🌱 I’m currently learning <b>Desktop Applications Development</b> & <b>Project Management</b>
 - 👯 I’m looking to collaborate on <b>Open Source Projects</b> and <b>Commercial Projects</b>
-- 📫 How to reach me: shavinda20@outlook.com.com
+
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me:shavinda20@outlook.com.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
 -  :computer: I’m currently learning <b>Desktop Applications Development</b> & <b>Project Management</b><br>
 -  :star2: I’m interested to collaborate on <b>Open Source Projects and Commercial Projects</b></br>
+
 
 
 ### Languages and Tools:
