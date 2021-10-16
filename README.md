@@ -1,6 +1,6 @@
 
 ### Hi there :wave: I am Shavinda Wanniarachchi:four_leaf_clover:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WKIShavinda&color=brightgreen" alt="WKIShavinda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WKIShavinda&color=brightgreen" alt="Shavinda-Wanniarachchi" /> </p>
 
 <!--
 **WKIShavinda/WKIShavinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,8 +68,8 @@ Here are some ideas to get you started:
   <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
 -->
 
-![Shavinda's github stats](https://github-readme-stats.vercel.app/api?username=WKIShavinda&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WKIShavinda&layout=compact&langs_count=8&theme=light)
+![Shavinda's github stats](https://github-readme-stats.vercel.app/api?username=Shavinda-Wanniarachchi&layout=compact&langs_count=8&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shavinda-Wanniarachchi&layout=compact&langs_count=8&theme=light)
 
 <br />
 
@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WKIShavinda&" alt="WKIShavinda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WKIShavinda&" alt="Shavinda-Wanniarachchi" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/wkishavinda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@wkishavinda" height="30" width="40" /></a>
+<a href="https://dev.to/wkishavinda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@Shavinda-Wanniarachchi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shavinda-wanniarachchi-738925202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shavinda-wanniarachchi" height="30" width="40" /></a>
 </p>
 
