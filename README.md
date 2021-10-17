@@ -74,8 +74,8 @@ Here are some ideas to get you started:
   <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
 -->
 
-![Shavinda's github stats](https://github-readme-stats.vercel.app/api?username=Shavinda-Wanniarachchi&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shavinda-Wanniarachchi&layout=compact&langs_count=8&theme=light)
+![Shavinda's github stats](https://github-readme-stats.vercel.app/api?username=WKIShavinda&layout=compact&langs_count=8&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WKIShavinda&layout=compact&langs_count=8&theme=light)
 
 <br />
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shavinda-Wanniarachchi" alt="Shavinda-Wanniarachchi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WKIShavinda" alt="WKIShavinda" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
