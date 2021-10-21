@@ -2,6 +2,8 @@
 ### Hi there :wave: I am Shavinda Wanniarachchi:four_leaf_clover:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WKIShavinda&color=brightgreen" alt="Shavinda-Wanniarachchi" /> </p>
 
+
+### Connect with me :
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WKIShavinda)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shavinda-wanniarachchi-738925202/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shavi__bro/)
@@ -85,9 +87,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WKIShavinda" alt="WKIShavinda" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/WKIShavinda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@Shavinda-Wanniarachchi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shavinda-wanniarachchi-738925202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shavinda-wanniarachchi" height="30" width="40" /></a>
-</p>
 
